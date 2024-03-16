@@ -1,9 +1,10 @@
-yping Tutor Project
+#<bold>Typing Tutor Project</bold>
+<br>
 Welcome to the Typing Tutor project! This project is designed to help users improve their typing speed and accuracy, providing them with an advantage in competitive programming and other typing-related tasks. Unlike online typing tutors, our Typing Tutor works offline, ensuring accessibility for all users.
-
-Project Description
+<br>
+#Project Description
 The Typing Tutor allows users to practice typing exercises to enhance their typing skills. By matching each typed letter with the corresponding letter in the exercise text, users can track their accuracy, words per minute (WPM), and overall score.
-
+<br>
 Why Typing Tutor?
 The decision to create the Typing Tutor stemmed from the observation that many individuals prepare for coding competitions by improving their typing speed online. However, access to online resources isn't always guaranteed. Thus, our team aimed to create an offline typing tutor to address this issue.
 
