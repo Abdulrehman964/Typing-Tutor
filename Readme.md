@@ -27,6 +27,13 @@ In our implementation, we utilize conditional statements to differentiate betwee
 - Accuracy = ((Total no. of letters - no. of wrong letters) / total no. of letters) * 100
 - Score = (accuracy * 10) + (WPM * 2)
 
+# Usage
+You can use our Typing tutor project by running the following command in terminal
+```console
+git clone https://github.com/Abdulrehman964/Typing-Tutor/edit/main/Readme.md
+g++ Typing_Tutor.c -o Typing_Tutor
+```
+
 # Results
 The Typing Tutor provides users with a platform to enhance their typing speed and accuracy efficiently. With regular practice, users can track their progress and observe improvements over time.
 
