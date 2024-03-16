@@ -30,8 +30,8 @@ In our implementation, we utilize conditional statements to differentiate betwee
 # Usage
 You can use our Typing tutor project by running the following command in terminal
 ```console
-git clone https://github.com/Abdulrehman964/Typing-Tutor/edit/main/Readme.md
-g++ Typing_Tutor.c -o Typing_Tutor
+$ git clone https://github.com/Abdulrehman964/Typing-Tutor/edit/main/Readme.md
+$ g++ Typing_Tutor.c -o Typing_Tutor
 ```
 
 # Results
